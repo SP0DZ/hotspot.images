@@ -1,1 +1,1 @@
-"# hs_fmpoland_img" 
+Please search for img files in RELEASES.
