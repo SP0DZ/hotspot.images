@@ -1,1 +1,1 @@
-Please search for img files in RELEASES.
+root passwoord = fmpoland
